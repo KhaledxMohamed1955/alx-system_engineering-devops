@@ -1,0 +1,3 @@
+#!/bin/bash
+Whereami=$(pwd)
+echo "the current is : $Whereami"
